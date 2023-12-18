@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339961048840",
+    "project_id": "arengka-studio",
+    "storage_bucket": "arengka-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:4da20d5a789b9cd465c6bd",
+        "android_client_info": {
+          "package_name": "com.arengkastudio.twibbonpemilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-rm05rsn8bc6f2jpbeltl1i0353d0g7hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-rm05rsn8bc6f2jpbeltl1i0353d0g7hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
